@@ -132,7 +132,7 @@ Note: please write one or two lines here describing your solution.
 */
 
 function halveAll(numbers) {
-  // your code is here
+  // your code is here helo
 }
 
 //=============================================================================
